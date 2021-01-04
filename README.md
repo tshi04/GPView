@@ -87,4 +87,8 @@ You are ready to use GPView.
     ./gpview
     ```
 
-Note: We developed GPView in Windows system and we are not sure if the Mac version works propers. If you experience any bug, please contact gpview@life-tp.com.
+Note: We developed GPView in Windows system and we are not sure if the Mac version works propers. If you experience any bug, please contact tshi@vt.edu.
+
+# Demos
+
+

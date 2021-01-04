@@ -14,7 +14,7 @@ Please cite the following paper if you are using GPView:
 }
 ```
 <p align="left">
-  <img src="figures/11.png" width="600" title="Visualize Molecules" alt="Cannot Access">
+  <img src="figures/11.png" width="800" title="Visualize Molecules" alt="Cannot Access">
 </p>
 
 ## Usuage
@@ -95,12 +95,12 @@ Note: We developed GPView in Windows system and we are not sure if the Mac versi
 # Demos
 
 <p align="left">
-  <img src="figures/main.png" width="600" title="Main Panel" alt="Cannot Access">
+  <img src="figures/main.png" width="800" title="Main Panel" alt="Cannot Access">
 </p>
 <p align="left">
-  <img src="figures/22.png" width="600" title="Visualize Wavefunctions" alt="Cannot Access">
+  <img src="figures/22.png" width="800" title="Visualize Wavefunctions" alt="Cannot Access">
 </p>
 <p align="left">
-  <img src="figures/33.png" width="600" title="Transition Density Matrix" alt="Cannot Access">
+  <img src="figures/33.png" width="800" title="Transition Density Matrix" alt="Cannot Access">
 </p>
 

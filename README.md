@@ -92,5 +92,8 @@ Note: We developed GPView in Windows system and we are not sure if the Mac versi
 # Demos
 
 <p align="left">
-  <img src="figure/modelIndex.png" width="600" title="The Model" alt="Cannot Access">
+  <img src="figures/main.png" width="600" title="The Model" alt="Cannot Access">
+  <img src="figures/11.png" width="600" title="The Model" alt="Cannot Access">
+  <img src="figures/22.png" width="600" title="The Model" alt="Cannot Access">
+  <img src="figures/33.png" width="600" title="The Model" alt="Cannot Access">
 </p>

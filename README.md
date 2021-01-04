@@ -73,7 +73,7 @@ Installation and Uninstallation are both very easy.
 
 you are ready to use GPView. If you want to uninstall GPView, you can delete the GPView folder in Applications and also you need to remove the shared libraries. You can run:
 
-    ```sudo rm /usr/local/lib/*vtk*```
+    sudo rm /usr/local/lib/*vtk*
 
     ```sudo rm /usr/local/lib/*arma*```
 

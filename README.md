@@ -91,4 +91,6 @@ Note: We developed GPView in Windows system and we are not sure if the Mac versi
 
 # Demos
 
-
+<p align="left">
+  <img src="figure/modelIndex.png" width="600" title="The Model" alt="Cannot Access">
+</p>

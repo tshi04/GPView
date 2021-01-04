@@ -92,8 +92,15 @@ Note: We developed GPView in Windows system and we are not sure if the Mac versi
 # Demos
 
 <p align="left">
-  <img src="figures/main.png" width="600" title="The Model" alt="Cannot Access">
-  <img src="figures/11.png" width="600" title="The Model" alt="Cannot Access">
-  <img src="figures/22.png" width="600" title="The Model" alt="Cannot Access">
-  <img src="figures/33.png" width="600" title="The Model" alt="Cannot Access">
+  <img src="figures/main.png" width="600" title="Main Panel" alt="Cannot Access">
 </p>
+<p align="left">
+  <img src="figures/11.png" width="600" title="Visualization Molecules" alt="Cannot Access">
+</p>
+<p align="left">
+  <img src="figures/22.png" width="600" title="Visualization Wavefunctions" alt="Cannot Access">
+</p>
+<p align="left">
+  <img src="figures/33.png" width="600" title="Density Matrix" alt="Cannot Access">
+</p>
+

@@ -17,7 +17,6 @@ Please cite the following paper if you are using GPView:
 ## Usuage
 
 ### Graphics
-
 - Display molecular structures. GPView can read data from G09 gjf (or com), G09 fchk, G09 wfx, G09 log files, XYZ file, PDB file, and show molecular structures. It can also read molecular structures from input files of GAMESS, MOPAC, Q-chem, Mopro and NWchem.
 - Animate single MD trajectories. Structures are from XYZ files.
 - Display electronic structures. GPView can read data from CUB (or CUBE) file and display iso-surface for molecular orbitals and electron densities. One can also view a couple of cubes together, which is very convenient for visualizing HOMO-LUMO, Hole-Particle simultaneously.
@@ -26,7 +25,6 @@ Please cite the following paper if you are using GPView:
 - Interface with outputs of GPV-ESMD program, which is a package for Non-Adiabatic Excited-State MD, and simulate the results of single MD trajectories, including molecular structures, potential energy surfaces, non-adibatic coupling terms, hopping probability and bond lengths. It can plot the average state populations as well.
 
 ### Analysis
-
 - Extract matrices from rwf dumped files.
 - Read parameters from fchk files, calculate various types of orbitals and generate wfx files.
 - Read parameters from wfx files, calculate orbitals and density, and generate cube files.
@@ -48,7 +46,17 @@ Please cite the following paper if you are using GPView:
 - Calculations based on cube elements directly, such as taking sum, difference, square and scale.
 
 ### Output Figures and Videos
-
 - Save the screenshots to PNG files.
 - Save the MD animations to AVI files.
 - PNG->AVI conversion.
+
+## Installation instructions
+### Windows
+
+Installation and Uninstallation are both very easy.
+
+- GPView is installed in C:\\\\ by default. You can’t change the directory actually. You just need to follow the instruction of installer.
+- GPView will not affect anything out of C:\\\\GPView directory.
+- To uninstall it, click uninstall.exe in the GPView folder. Alternately, you can go to feature and application to uninstall it.
+
+

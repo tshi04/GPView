@@ -13,3 +13,20 @@ Please cite the following paper if you are using GPView:
   publisher={Elsevier}
 }
 ```
+
+## Usuage
+
+### Graphics
+
+- Display molecular structures. GPView can read data from G09 gjf (or com), G09 fchk, G09 wfx, G09 log files, XYZ file, PDB file, and show molecular structures. It can also read molecular structures from input files of GAMESS, MOPAC, Q-chem, Mopro and NWchem.
+
+- Animate single MD trajectories. Structures are from XYZ files.
+
+- Display electronic structures. GPView can read data from CUB (or CUBE) file and display iso-surface for molecular orbitals and electron densities. One can also view a couple of cubes together, which is very convenient for visualizing HOMO-LUMO, Hole-Particle simultaneously.
+
+- Contour Plot and Matrix Color Map, e.g. plot transition density matrices
+
+- Plot Density of States and Spectrum (Oscillator Strength).
+
+- Interface with outputs of GPV-ESMD program, which is a package for Non-Adiabatic Excited-State MD, and simulate the results of single MD trajectories, including molecular structures, potential energy surfaces, non-adibatic coupling terms, hopping probability and bond lengths. It can plot the average state populations as well.
+

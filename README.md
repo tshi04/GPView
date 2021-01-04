@@ -47,3 +47,8 @@ Please cite the following paper if you are using GPView:
 - Generate Detachment and Attachment Density.
 - Calculations based on cube elements directly, such as taking sum, difference, square and scale.
 
+### Output Figures and Videos
+
+- Save the screenshots to PNG files.
+- Save the MD animations to AVI files.
+- PNG->AVI conversion.

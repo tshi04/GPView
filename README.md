@@ -1,5 +1,5 @@
 # GPView 
-The GPView program is a C++ package for wave function analysis and visualization. It was developed and maintained by Tian Shi and Ping Wang.
+The GPView program is a C++ package for wave function analysis and visualization. It was developed and maintained by Tian Shi and Ping Wang. You can obtain the software by emailing tshi@vt.edu.
 
 Please cite the following paper if you are using GPView:
 ```

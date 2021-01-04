@@ -72,14 +72,17 @@ Installation and Uninstallation are both very easy.
     ```
 
 You are ready to use GPView. If you want to uninstall GPView, you can delete the GPView folder in Applications and also you need to remove the shared libraries. You can run:
+    
     ```
     sudo rm /usr/local/lib/*vtk*
     sudo rm /usr/local/lib/*arma*
     ```
+    
 You can also open GPView by running:
 
+    ```
     cd /Applications/GPView/gpview.app/Contents/MacOS/
-
     ./gpview
+    ```
 
 Note: We developed GPView in Windows system and we are not sure if the Mac version works propers. If you experience any bug, please contact gpview@life-tp.com.

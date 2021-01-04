@@ -64,17 +64,15 @@ Installation and Uninstallation are both very easy.
 - Download the GPView.dmg file.
 - Install GPView.
 - Open a terminal and copy the libraries in the /Applications/GPView/Libraries/* directory to /usr/local/lib. You can run:
-
-    ```cd /Applications/GPView/Libraries/```
-
-    ```sudo cp *vtk* /usr/local/lib```
-
-    ```sudo cp *arma* /usr/local/lib```
+ 
+    ```
+    cd /Applications/GPView/Libraries/
+    sudo cp *vtk* /usr/local/lib
+    sudo cp *arma* /usr/local/lib
+    ```
 
 You are ready to use GPView. If you want to uninstall GPView, you can delete the GPView folder in Applications and also you need to remove the shared libraries. You can run:
-
     sudo rm /usr/local/lib/*vtk*
-
     sudo rm /usr/local/lib/*arma*
 
 You can also open GPView by running:
